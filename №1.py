@@ -1,5 +1,3 @@
-cars =  {"Оптімус Прайм" : "Грузовик Peterbilt 379",
-       "Бамблбі" : "Chevrolet Camaro",
-        "Джаз" : "Porsche 935 Turbo"}
-for x in cars :
-    print(x)
+import datetime
+print("Hello this is our calendar application")
+print(datetime.datetime.today())
